@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Introduction from './Introduction.js'
 import Quiz from './Quiz.js'
 import Exercise from './Exercise'
